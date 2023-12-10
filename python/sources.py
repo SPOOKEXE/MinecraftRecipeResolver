@@ -142,11 +142,11 @@ if __name__ == '__main__':
 	# put important ones first
 	resultant = extract_sources_from_files([
 		'temp/forge-40.2.0.jar',
-		'temp/1.18.2.jar',
-		'temp/cc-tweaked-1.18.2-1.101.3.jar',
-		'temp/AdvancedPeripherals-1.18.2-0.7.31r.jar',
-		'temp/MorePeripherals_1.18.2-1.8.jar',
-		'temp/toms-peripherals-1.18.2-1.1.0.jar',
+		# 'temp/1.18.2.jar',
+		# 'temp/cc-tweaked-1.18.2-1.101.3.jar',
+		# 'temp/AdvancedPeripherals-1.18.2-0.7.31r.jar',
+		# 'temp/MorePeripherals_1.18.2-1.8.jar',
+		# 'temp/toms-peripherals-1.18.2-1.1.0.jar',
 	])
 
 	print('Dumping to file.')
